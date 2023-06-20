@@ -1,1 +1,3 @@
-
+E-Learning è un progetto realizzato per il corso di Laboratorio di Informatica del CdL Informatica e Comunicazione Digitale (Università degli Studi di Bari).
+L'obiettivo del progetto è quello di simulare(in maniera didattica) la piattaforma E-Learning di Uniba, all'interno della quale gli studenti possono iscriversi inserendo le proprie generalità e il loro numero di matricola e avere accesso ad eventuali corsi e file(fittizzi) caricati dai professori. Anche i professori hanno accesso alla piattaforma e hanno la possibilità di caricare e cancellare file(fittizzi), e di rimuovere studenti dai propri corsi.
+Il linguaggio è C e vengono utilizzati file .csv per salvare le informazioni.
