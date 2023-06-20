@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1617370975 source:c:\users\muzz\desktop\traccia 2\e-learning\funzioni.c
+	"funzioni.h"
+	"dichiarazioni.h"
+
+1617355595 c:\users\muzz\desktop\traccia 2\e-learning\funzioni.h
+	"dichiarazioni.h"
+	"menu.h"
+
+1617443203 c:\users\muzz\desktop\traccia 2\e-learning\dichiarazioni.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	<conio.h>
+
+1617302415 c:\users\muzz\desktop\traccia 2\e-learning\menu.h
+	"dichiarazioni.h"
+
+1617371564 source:c:\users\muzz\desktop\traccia 2\e-learning\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	"dichiarazioni.h"
+	"menu.h"
+	"funzioni.h"
+
+1617371108 source:c:\users\muzz\desktop\traccia 2\e-learning\menu.c
+	"menu.h"
+	"funzioni.h"
+
+1617370975 source:c:\users\muzz\desktop\esame laboratorio\e-learning\funzioni.c
+	"funzioni.h"
+	"dichiarazioni.h"
+
+1617355595 c:\users\muzz\desktop\esame laboratorio\e-learning\funzioni.h
+	"dichiarazioni.h"
+	"menu.h"
+
+1617944185 c:\users\muzz\desktop\esame laboratorio\e-learning\dichiarazioni.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	<conio.h>
+
+1617302415 c:\users\muzz\desktop\esame laboratorio\e-learning\menu.h
+	"dichiarazioni.h"
+
+1617371564 source:c:\users\muzz\desktop\esame laboratorio\e-learning\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	"dichiarazioni.h"
+	"menu.h"
+	"funzioni.h"
+
+1617371108 source:c:\users\muzz\desktop\esame laboratorio\e-learning\menu.c
+	"menu.h"
+	"funzioni.h"
+
